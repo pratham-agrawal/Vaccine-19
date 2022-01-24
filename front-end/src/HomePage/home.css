@@ -1,0 +1,58 @@
+.header {
+    color: rgb(104, 94, 94);
+    background-color: "white";
+    padding: 15px;
+
+    font: 'Poppins', sans-serif;
+    font-size: 1.5em;
+}
+
+.vaccineTitle{
+    float:left;
+    margin-bottom: 14px;
+}
+.main{
+    background-color: #282c34;
+    width: 100%;
+    min-height: 93vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.login{
+    float:right;
+}
+.body1 {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(60px);
+    color: white;
+    position: absolute;
+    padding-top: 250px;
+    padding-right: 100px;
+    padding-left: 250px;
+    top: 68px;
+    right:0px;
+
+}
+.image{
+    padding-top: 150px;
+    padding-right: 350px;
+    padding-left: 150px;
+    background-color: #282c34;
+    position: absolute;
+    top: 68px;
+}
+
+.button1{
+    background-color: "white";
+    position: absolute;
+    top:10 px;
+    left: 800 px;
+}
